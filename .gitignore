@@ -2,3 +2,4 @@ alumConnectServiceKey.json
 .idea
 .vscode
 .DS_store
+.gitlab-ci.yml
