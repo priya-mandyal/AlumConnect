@@ -29,7 +29,6 @@ Whether you are a recent graduate navigating through the early stages of your ca
 8. [Tests](#tests)
 9. [Code Quality](#code-quality)
 10. [License](#license)
-11. [Contribution](#contribution)
 
 ## **AlumConnect - Backend Setup**
 ## **Libraries Used**
@@ -357,13 +356,6 @@ The code follows the SOLID principles, maintaining high cohesion and loose coupl
 
 ## **License**
 Distributed under the MIT License. Refer to `License` for more information.
-
-## **Contribution**
-- [Priya Mandyal](https://git.cs.dal.ca/mandyal)
-- [Sivaprakash Hariharan](https://git.cs.dal.ca/shariharan)
-- [Siddhart Bhardwaj](https://git.cs.dal.ca/siddhartb)
-- [MD Samshad Rahman](https://git.cs.dal.ca/msrahman)
-- [Anshika Sharma](https://git.cs.dal.ca/anshika)
 
 
 
