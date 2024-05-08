@@ -347,7 +347,6 @@ The GitLab CI/CD pipeline has several stages to build, test, analyze code qualit
     3. **Implementation Smells:** Sparse occurrences, mostly resolved.
     4. **Test Smells:** All the issues are resolved as needed.
 
-
   
 
 #### Conclusion:
